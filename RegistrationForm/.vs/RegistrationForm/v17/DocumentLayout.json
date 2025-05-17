@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|solutionrelative:registrationform.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E32C0D1-9DD3-4124-BE0A-C0AD8D4EDC1C}|RegistrationForm.Data\\RegistrationForm.Data.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E32C0D1-9DD3-4124-BE0A-C0AD8D4EDC1C}|RegistrationForm.Data\\RegistrationForm.Data.csproj|solutionrelative:registrationform.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|solutionrelative:registrationform.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E32C0D1-9DD3-4124-BE0A-C0AD8D4EDC1C}|RegistrationForm.Data\\RegistrationForm.Data.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E32C0D1-9DD3-4124-BE0A-C0AD8D4EDC1C}|RegistrationForm.Data\\RegistrationForm.Data.csproj|solutionrelative:registrationform.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E32C0D1-9DD3-4124-BE0A-C0AD8D4EDC1C}|RegistrationForm.Data\\RegistrationForm.Data.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.data\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E32C0D1-9DD3-4124-BE0A-C0AD8D4EDC1C}|RegistrationForm.Data\\RegistrationForm.Data.csproj|solutionrelative:registrationform.data\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578D1DD9-A339-4F0C-AC70-5F3E7A2D51C0}|RegistrationForm.Infrastructure\\RegistrationForm.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.infrastructure\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578D1DD9-A339-4F0C-AC70-5F3E7A2D51C0}|RegistrationForm.Infrastructure\\RegistrationForm.Infrastructure.csproj|solutionrelative:registrationform.infrastructure\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578D1DD9-A339-4F0C-AC70-5F3E7A2D51C0}|RegistrationForm.Infrastructure\\RegistrationForm.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.infrastructure\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578D1DD9-A339-4F0C-AC70-5F3E7A2D51C0}|RegistrationForm.Infrastructure\\RegistrationForm.Infrastructure.csproj|solutionrelative:registrationform.infrastructure\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|solutionrelative:registrationform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|solutionrelative:registrationform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|c:\\users\\pc\\source\\repos\\registrationform\\registrationform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30951F20-E200-4E02-BADF-FB58AA1605AB}|RegistrationForm.API\\RegistrationForm.API.csproj|solutionrelative:registrationform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.API\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Controllers\\EventController.cs",
+              "RelativeToolTip": "RegistrationForm.API\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:21:20.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Data\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Data\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Data\\Entities\\Event.cs",
+              "RelativeToolTip": "RegistrationForm.Data\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:18:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Infrastructure\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Infrastructure\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Infrastructure\\Models\\LoginModel.cs",
+              "RelativeToolTip": "RegistrationForm.Infrastructure\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:03:09.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Infrastructure\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Infrastructure\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Infrastructure\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "RegistrationForm.Infrastructure\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:57:40.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Data\\AppDbContext.cs",
+              "RelativeToolTip": "RegistrationForm.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:52:29.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.Data\\Entities\\User.cs",
+              "RelativeToolTip": "RegistrationForm.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:48:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RegistrationForm.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RegistrationForm.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T15:30:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistrationForm.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\appsettings.json",
+              "RelativeToolTip": "RegistrationForm.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T15:30:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.API\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Program.cs",
+              "RelativeToolTip": "RegistrationForm.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:28:17.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistrationForm\\RegistrationForm.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RegistrationForm.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:28:08.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

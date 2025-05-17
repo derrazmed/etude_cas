@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RegistrationForm.Infrastructure/1.0.0": {
+        "runtime": {
+          "RegistrationForm.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistrationForm.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
